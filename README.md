@@ -5,7 +5,7 @@
 
 :woman: **ABOUT ME**
 
-I am a front-end focused full stack developer.  With a lifetime passion for art, I love figuring out different ways to express and present a piece, constantly finetuning it to be the best that it can be.  My goal is to utilize technology and art to make a positive impact.
+I am a front-end focused full stack developer.  With a lifetime passion for art, I love figuring out different ways to express and present a piece, constantly fine-tuning it to be the best that it can be.  My goal is to utilize technology and art to make a positive impact.
 
 I care deeply about producing quality work with efficiency, and am eager to level up my skills in order to bring more value to others.
 
