@@ -1,3 +1,5 @@
+<img src="https://photos.app.goo.gl/5EbybxtH5ztVAEGVA" align="left" height="48" width="48" />
+
 ### Welcome to my GitHub! :computer:
 <br>
 
@@ -10,9 +12,10 @@ I care deeply about producing quality work with efficiency, and am eager to leve
 Aside from working on code, my life is filled with: 
 - Parenting :boy:
 - Animals :dog: :dog: :cat: :rabbit: :rabbit:
-- Music/Singing :musical_note:
+- Drum & Bass Music :headphones:
+- Singing :studio_microphone:
 - Hoop/Dancing :white_circle:
-- Doodling :art:
+- Doodling :pen:
 
 ---
 
