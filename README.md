@@ -1,5 +1,3 @@
-<img src="https://github.com/maasa-k/maasa-k/blob/main/header.png?raw=true" />
-
 ### Welcome to my GitHub! :computer:
 <br>
 
@@ -27,7 +25,9 @@ Aside from working on code, my life is filled with:
 
 :chart: **GITHUB STATS**
 
-[![Maasa's github stats](https://github-readme-stats.vercel.app/api?username=maasa-k)](https://github.com/maasa-k/github-readme-stats)
+![Maasa's github stats](https://github-readme-stats.vercel.app/api?username=maasa-k)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maasa-k&layout=compact)
 
 ---
 
