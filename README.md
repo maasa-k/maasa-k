@@ -44,3 +44,7 @@ Aside from working on code, my life is filled with:
 <a href="https://soundcloud.com/musicofmoss">
   <img src="https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" />
 </a>
+
+<a href="https://twitter.com/MaasaDev">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
