@@ -3,7 +3,7 @@
 
 :woman: **ABOUT ME**
 
-I'm Maasa, a front-end focused developer striving to do good and have fun in this world with the help and use of technology and art.  I care deeply about producing quality work with efficiency, and am eager to level up my programming skills. 
+I'm Maasa, a front-end focused developer striving to do good and have fun in this world with the help and use of technology and art.  I care deeply about producing quality work with efficiency, and am eager to level up my skills in order to bring more value to others.
 
 Aside from working on code, my life is filled with: 
 - Parenting :boy:
