@@ -29,7 +29,7 @@ Aside from working on code, my life is filled with:
 
 ---
 
-:point_down: **FIND ME IN OTHER PLACES**
+:point_down: **FIND ME IN OTHER AREAS OF THE WEB**
 
 <a href= "https://www.linkedin.com/in/maasa-kono">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
