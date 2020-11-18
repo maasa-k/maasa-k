@@ -1,5 +1,3 @@
-<img src="https://photos.app.goo.gl/5EbybxtH5ztVAEGVA" align="left" height="48" width="48" />
-
 ### Welcome to my GitHub! :computer:
 <br>
 
@@ -16,6 +14,7 @@ Aside from working on code, my life is filled with:
 - Singing :studio_microphone:
 - Hoop/Dancing :white_circle:
 - Doodling :pen:
+- Mangas :japan::open_book:
 
 ---
 
