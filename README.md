@@ -9,7 +9,7 @@ I am a front-end focused full stack software engineer.  With a lifetime passion 
 
 I care deeply about producing quality work with efficiency, and am eager to level up my skills in order to bring more value to others.
 
-I had not been working on personal projects for some time as I was focusing on a volunteer project.  During that time, I had the opportunity to work with a wonderful frontend development team primarily honing my React skills as well as learning Material UI.  The work also involved a period of time parsing through and researching a prior iteration of code repository to determine transferable/applicable commponents.  
+I had not been working on personal projects for some time as I was focusing on an internship.  During that time, I had the opportunity to work with a wonderful frontend development team primarily honing my React skills as well as learning Material UI.  The work also involved a period of time parsing through and researching a prior iteration of code repository to determine transferable/applicable commponents.  
 
 Aside from working on code, my life is filled with: 
 - Parenting :boy:
