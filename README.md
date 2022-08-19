@@ -1,9 +1,7 @@
-<img src="https://i.postimg.cc/MpYGmJZf/download.png" />
-
 ### Welcome to my GitHub! :computer:
 <br>
 
-:woman: **ABOUT ME**
+**ABOUT ME**
 
 I am a front-end focused full stack software engineer.  With a lifetime passion for all sorts of art forms, I love figuring out various ways to express and present a piece, constantly fine-tuning it to create the best version possible.  Likewise, when it comes to coding, I find much enjoyment in the challenge of solving problems using different methods, striving for clean and efficient solutions.
 
