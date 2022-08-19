@@ -5,20 +5,7 @@
 
 :woman: **ABOUT ME**
 
-I am a front-end focused full stack software engineer.  With a lifetime passion for art, I love figuring out different ways to express and present a piece, constantly fine-tuning it to be the best that it can be.  My goal is to utilize technology and art to make a positive impact.
-
-I care deeply about producing quality work with efficiency, and am eager to level up my skills in order to bring more value to others.
-
-I had not been working on personal projects for some time as I was focusing on an internship.  During that time, I had the opportunity to work with a wonderful frontend development team primarily honing my React skills as well as learning Material UI.  The work also involved a period of time parsing through and researching a prior iteration of code repository to determine transferable/applicable commponents.  
-
-Aside from working on code, my life is filled with: 
-- Parenting :boy:
-- Animals :dog: :dog: :cat: :rabbit: :rabbit:
-- Drum & Bass Music :headphones:
-- Singing :studio_microphone:
-- Hoop/Dancing :white_circle:
-- Doodling :pen:
-- Mangas :japan::open_book:
+I am a front-end focused full stack software engineer.  With a lifetime passion for all sorts of art forms, I love figuring out various ways to express and present a piece, constantly fine-tuning it to create the best version possible.  Likewise, when it comes to coding, I find much enjoyment in the challenge of solving problems using different methods, striving for clean and efficient solutions.
 
 ---
 
@@ -34,23 +21,3 @@ Aside from working on code, my life is filled with:
 ![Maasa's github stats](https://github-readme-stats.vercel.app/api?username=maasa-k)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maasa-k&layout=compact)
-
----
-
-:point_down: **FIND ME IN OTHER AREAS OF THE WEB**
-
-<a href= "https://www.linkedin.com/in/maasa-kono">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://dev.to/maasak">
-  <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
-
-<a href="https://soundcloud.com/musicofmoss">
-  <img src="https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" />
-</a>
-
-<a href="https://twitter.com/MaasaDev">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
