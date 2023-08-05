@@ -1,21 +1,8 @@
-### Welcome to my GitHub! :computer:
+### Welcome to my GitHub! ^_^
 <br>
 
 **ABOUT ME**
 
-I am a front-end focused full stack software engineer.  With a lifetime passion for all sorts of art forms, I love figuring out various ways to express and present a piece, constantly fine-tuning it to create the best version possible.  Likewise, when it comes to coding, I find much enjoyment in the challenge of solving problems using different methods, striving for clean and efficient solutions.
+I'm a Software Engineer who has come to relish the satisfaction of working through challenging code, making sense of things that didn't before. User experience is at the forefront of my mind while fixing bugs or working on new features, and maintaining a healthy developer experience is also important to me, as I strive to keep my code clean and readable for my teammates.
 
----
-
-:wrench: **SKILLS**
-
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" /> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-
----
-
-:chart: **GITHUB STATS**
-
-![Maasa's github stats](https://github-readme-stats.vercel.app/api?username=maasa-k)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maasa-k&layout=compact)
+Always hungry for growth and seeking ways to make a positive impact!
