@@ -8,8 +8,6 @@ Previously, I spent a brief time as a contractor, making e-commerce websites acc
 
 Cybersecurity is another territory that I am deeply interested in ([Darknet Diaries](https://darknetdiaries.com/episode/), an eye-opening podcast filled with incredible stories in various cyber and physical security spaces, has fueled my interest - I'd highly recommend it).  Some of my spare time is spent educating myself on how to keep digital information secure.
 
-On another note 🎵 - I am a vocalist and have recently begun producing music with Ableton (prior to that, I used Logic), a completely different type of problem-solving. I collaborate with artists all over the world, a real treat and honor! If you'd like to have a listen to some of the music I have created - both my own and collaborations - you can find them on [Spotify](https://open.spotify.com/artist/1zUvpb0ikNsCGjZjUDoU4u) and [Soundcloud](https://soundcloud.com/utaimoss).
-
 ## What I bring to the table
 
 ### Languages & Tools
