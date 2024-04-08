@@ -2,11 +2,11 @@
 
 ## A bit about me...
 
-👋 Software Engineer here! The last 2 years have been spent working with a remote front-end team building new features, fixing bugs, reducing technical debt, and adding test coverage (unit tests, acceptance tests, and visual regression) for a complex community engagement web application. In this capacity, I have been able to sharpen essential programming skills, including debugging, pair programming, understanding legacy code, and independent research. Although primarily front-end focused, I have also dabbled in some of the back-end PHP/Laravel code as well.
+👋 Software Engineer here! The last 2+ years have been spent working with a remote front-end team building new features, fixing bugs, reducing technical debt, and adding test coverage (unit tests, acceptance tests, and visual regression) for a complex community engagement web application. In this capacity, I have been able to sharpen essential programming skills, including debugging, pair programming, understanding legacy code, and independent research. Although primarily working with VueJS, I have also dabbled in some of the back-end PHP/Laravel code as well.
 
 Previously, I spent a brief time as a contractor, making e-commerce websites accessible according to [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) standards. This experience was invaluable, as it has shaped me into a more thoughtful coder, keeping all types of users in mind when writing code and testing functionality in the UI.
 
-Cybersecurity is another territory that I am deeply interested in ([Darknet Diaries](https://darknetdiaries.com/episode/), an eye-opening podcast filled with incredible stories in various cyber and physical security spaces, has fueled my interest - I'd highly recommend it).  Some of my spare time is spent educating myself on how to keep digital information secure.
+Currently, I'm digging back into React and learning NextJS!
 
 ## What I bring to the table
 
