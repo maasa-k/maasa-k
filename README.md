@@ -1,6 +1,6 @@
 ![Banner](./public/images/GH-banner.png)
 
-# Hi, I'm Maasa!  ⸜(｡˃ ᵕ ˂ )⸝♡
+# I'm Maasa!  ⸜(｡˃ ᵕ ˂ )⸝♡
 
 ## A bit about me...
 
