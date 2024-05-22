@@ -33,11 +33,11 @@ Currently, I'm digging back into React and learning NextJS!
 
 ### Soft
 
-📞 Clear communicator (both verbal and written)
-👯 Eager to collaborate
-⏳ Well-organized time management
-📚 Continuous learner
-🛠️ Resourceful problem solver
+📞 Clear communicator (both verbal and written) <br>
+👯 Eager to collaborate <br>
+⏳ Well-organized time management <br>
+📚 Continuous learner <br>
+🛠️ Resourceful problem solver <br>
 
 ## Until next time...  (˶ᵔ ᵕ ᵔ˶)
 
